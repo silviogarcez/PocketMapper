@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocketMapper", "PocketMapper.csproj", "{57537F9A-1701-4E06-8865-C065433C78D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocketMapper", "PocketMapper/PocketMapper.csproj", "{57537F9A-1701-4E06-8865-C065433C78D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketMapper.Test", "..\ConsoleApp1\PocketMapper.Test.csproj", "{D462CC71-592F-483B-BA35-D328164824B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketMapper.Test", "PocketMapper.Test\PocketMapper.Test.csproj", "{D462CC71-592F-483B-BA35-D328164824B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
