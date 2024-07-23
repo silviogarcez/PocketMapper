@@ -4,8 +4,8 @@ using Microsoft.Data.SqlClient;
 namespace PocketMapper.Test
 {
     public class PocketTest
-    {
-        private static readonly SqlConnection con = new SqlConnection("Server=tcp:sgarcez.database.windows.net,1433;Initial Catalog=Blazor;Persist Security Info=False;User ID=sgarcez;Password=P@ssw0rd;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+    {        
+        private static readonly SqlConnection con = new SqlConnection("change your connection string here");
 
         public PocketTest()
         {
